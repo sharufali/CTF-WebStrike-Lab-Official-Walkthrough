@@ -2,7 +2,7 @@
 
 **Platform:** CyberDefenders  
 **Tool Used:** Wireshark  
-**Category:** Network Forensics | Web Attack Investigation  
+**Category:** Network Forensics | Web Attack Investigation   
 **Objective:** Investigate a captured PCAP file to uncover attacker behavior, exploited vulnerabilities, reverse shell connection, and attempted data exfiltration.
 
 ---
