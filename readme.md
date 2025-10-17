@@ -18,6 +18,8 @@ Using **Wireshark**, the network capture was examined step-by-step to uncover ho
 Opening the `WebStrike.pcap` file in **Wireshark** and navigating to  
 `Statistics → Endpoints → IPv4` revealed two primary IP addresses:
 
+![Wireshark Statistics Screenshot](zeroth.png)
+
 - **Attacker:** `117.11.88.124`  
 - **Victim Server:** `24.49.63.79`
 
